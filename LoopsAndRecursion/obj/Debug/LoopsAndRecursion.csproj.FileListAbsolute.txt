@@ -1,0 +1,8 @@
+C:\Users\kulik\source\repos\LoopsAndRecursion\LoopsAndRecursion\bin\Debug\LoopsAndRecursion.exe.config
+C:\Users\kulik\source\repos\LoopsAndRecursion\LoopsAndRecursion\bin\Debug\LoopsAndRecursion.exe
+C:\Users\kulik\source\repos\LoopsAndRecursion\LoopsAndRecursion\bin\Debug\LoopsAndRecursion.pdb
+C:\Users\kulik\source\repos\LoopsAndRecursion\LoopsAndRecursion\obj\Debug\LoopsAndRecursion.csproj.AssemblyReference.cache
+C:\Users\kulik\source\repos\LoopsAndRecursion\LoopsAndRecursion\obj\Debug\LoopsAndRecursion.csproj.CoreCompileInputs.cache
+C:\Users\kulik\source\repos\LoopsAndRecursion\LoopsAndRecursion\obj\Debug\LoopsAndRecursion.exe
+C:\Users\kulik\source\repos\LoopsAndRecursion\LoopsAndRecursion\obj\Debug\LoopsAndRecursion.pdb
+C:\Users\kulik\source\repos\LoopsAndRecursion\LoopsAndRecursion\obj\Debug\LoopsAndRecursion.exe.config
